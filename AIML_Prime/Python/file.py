@@ -1,0 +1,12 @@
+f=open("sample.txt", "w+")
+#content=f.read()
+# print(content)
+# print(type(content))
+#data=f.readline()
+# print(data)
+f.write("\nThis is new line added.")
+print(f.read())
+
+f2=open("sample2.txt", "a")
+f2.write("This is sample file for\n")
+f2.write("pyhton code\n")

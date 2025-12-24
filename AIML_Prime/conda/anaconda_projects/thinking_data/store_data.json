@@ -1,0 +1,20 @@
+[
+    {
+      "id": "review_001",
+      "name": "Alice Smith",
+      "rating":" 5",
+      "feedback": "Excellent product, highly recommended!"
+    },
+    {
+      "id": "review_002",
+      "name": "Bob Johnson",
+      "rating": "Four",
+      "feedback": "Good quality, met my expectations."
+    },
+     {
+      "id": "review_0082",
+      "name": "Bob Johnson",
+      "rating": "6 ",
+      "feedback": "Good quality, met my expectations."
+    }
+]
